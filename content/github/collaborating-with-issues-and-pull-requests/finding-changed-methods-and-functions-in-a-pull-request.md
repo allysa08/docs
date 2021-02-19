@@ -1,6 +1,6 @@
 ---
 title: Finding changed methods and functions in a pull request
-intro: 'You can quickly find proposed changes to a method or function in a pull request in *.go*, *.js*, *.ts*, *.py*, *.php*, and *.rb* files.'
+intro: 'You can quickly find proposed changes to a method or function in a pull request in *.go*, *., *.ts*, *.py*, *.php*, and *.rb* 
 redirect_from:
   - /articles/finding-changed-methods-and-functions-in-a-pull-request
 versions:
